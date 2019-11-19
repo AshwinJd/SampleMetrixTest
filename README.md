@@ -1,6 +1,2 @@
 # SampleMetrixTest
 Sample
-Ashwin
-
-
-sdfklj
