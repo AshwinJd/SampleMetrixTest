@@ -8,5 +8,3 @@ sample
 Sample
 
 So
-
-hgj
