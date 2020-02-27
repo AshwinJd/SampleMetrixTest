@@ -7,5 +7,3 @@ sample
 
 Sample
 
-So
-sdf
