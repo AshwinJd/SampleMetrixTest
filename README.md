@@ -9,5 +9,3 @@ Sample
 
 So
 
-
-lsdkfj
